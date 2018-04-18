@@ -9,3 +9,5 @@ This repository was made for a Multivariate Regression course that I'm taking in
 1. JMP
 
 I cannot take any credit for much of the process such as: gathering, cleaning and preparing data, and exploratory analysis. I imitated what nrippner did in data.world, https://data.world/nrippner/cancer-linear-regression-model-tutorial/contributors, you can visit the link if you please. I chose other regressor variables and did my analysis on JMP. Also, do to time constraints I made some minor changes. This is the first time I do this and thanks to nrippner and my regression class I learned a lot.
+
+Since this wil be public please feel free to give me any feedback. 
